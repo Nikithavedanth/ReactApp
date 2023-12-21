@@ -1,0 +1,9 @@
+.bg-image{
+   background-image: url("netflix-background.jpg");
+   height:800px;
+   background-size:cover;
+}
+.bg-shade{
+background-color: rgba(0,0,0,0.5);
+height:800px;
+}
