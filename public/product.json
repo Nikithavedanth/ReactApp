@@ -1,0 +1,9 @@
+
+{
+    "Name":"Samsung",
+    "Price": 45000.44,
+    "Stock": true,
+    "ShippedTo":["Delhi","Hyderabad"],
+    "Rating":{"Rate":4.2,"Count":6700},
+    "Photo":"tv.jpg"
+}
